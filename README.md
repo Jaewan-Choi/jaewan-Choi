@@ -1,8 +1,8 @@
-## ABOUT ME
+## ✔️ ABOUT ME
 Hello! I'm JaeWan!<br>
 I have been studying Backend web development since April, 2022<br><br>
 
-## SKILLS
+## ✔️ SKILLS
 ### MAIN
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -21,6 +21,6 @@ I have been studying Backend web development since April, 2022<br><br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 <br><br>
 
-## CONTACT
+## ✔️ CONTACT
 ![Gmail](https://img.shields.io/badge/wkdudhksl@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
 [![Velog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@wkdudhksl)](https://velog.io/@wkdudhksl)
